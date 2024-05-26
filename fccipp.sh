@@ -245,8 +245,8 @@ endipresult() {
 		"tag": "select",
 		"outbounds": [
 			"auto",
-			"IP->Iran, Farshad",
-			"IP->Main, Farshad"
+			"IP->Iran",
+			"IP->Main"
 		],
 		"default": "auto"
 		},
